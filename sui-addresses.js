@@ -1,1 +1,3 @@
-
+window.WAL3_ADDRESSES = {
+  "team wallet": "0x483748113a13e59bd40779f3a14f09d6432c6558416e5379f67231cd26d8a033"
+};
