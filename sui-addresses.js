@@ -82,7 +82,8 @@ window.WAL3_ADDRESSES = {
         "exchange_5f32" : "0xc38e308a33c6544657a6c1e3149fc256f0ae71b9546ab0999eee958ad2f15f32",
      "us team" : "0xc0630bf3ac647069297678e11bf91c11e704aa6ca879c3aff05e9a9bb0055f2f",
     "us team" :  "0xa018752373491460df3fc60db293f08d5263610ad1cf7d3b7fb3666768aafc50",
-    "us team" : "0x5dbcbdb7b5427987474eba6a14c7e911fd0215e68ab31f354c6f8f5db5421bf6"
+    "us team" : "0x5dbcbdb7b5427987474eba6a14c7e911fd0215e68ab31f354c6f8f5db5421bf6",
+    "us deployer" : "0x483748113a13e59bd40779f3a14f09d6432c6558416e5379f67231cd26d8a033"
 };
 
 window.TEST_FROM_GITHUB = 'HELLO_FROM_GITHUB';
