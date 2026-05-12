@@ -95,8 +95,6 @@ window.WAL3_ADDRESSES = {
 'us deployer -1 (9)' : '0x8bd1be626d1f01d6001afdbc562d1b689ec5eeb4840be1c2c5fca12b20d246e4',
 'us deployer -1 (10)' : '0x0c668d0070b6c67b8889edd3072fd999f6553a191f1c446bc843892ec463feaf',
 'us deployer -1 (11)' : '0xc081f498b86a4c6c6fdb97e4f7343b3f141ec57673ba983472176b3adaa60c17',
-
-
 };
 
 window.TEST_FROM_GITHUB = 'HELLO_FROM_GITHUB';
