@@ -96,6 +96,11 @@ window.WAL3_ADDRESSES = {
 'us deployer -1 (10)' : '0x0c668d0070b6c67b8889edd3072fd999f6553a191f1c446bc843892ec463feaf',
 'us deployer -1 (11)' : '0xc081f498b86a4c6c6fdb97e4f7343b3f141ec57673ba983472176b3adaa60c17',
 'us deployer -2 (1)' : '0x3cf163350c3bdf48e33cb4238708edea5319d1de9d1b9001176c4d713f859e4e',
+'bitget deposit us depl -2 (1)' : '0x3fdde99ecff1f5e0aca290d05c4e70247999c3b96a2bbea462b615e1f90cb4aa',
+'gate deposit us depl -2 (1)' : '0xaf4e83dbd8074a7bdc525d9132f08bb6b3e9393e897165d0c10f5b7cfdef9e6d',
+'gate deposit us depl -2 (2)' : '0x165ca4f75dc5e63000b63208f037f9d2adefa30b137e3ec4c8de54a03c62ebf7',
+'gate deposit us depl -2 (3)' : '0x598a19bd06ee5b6e15fbf49ec39378b63cbe5f85207e3b3212b07d250d324899',
+'gate deposit us depl -2 (4)' : '0x5caca4f9961f2df1d61e3b1d6775c98c2d1b90369e58ddd16ec05b27d1bfd7e8',
 };
 
 window.TEST_FROM_GITHUB = 'HELLO_FROM_GITHUB';
