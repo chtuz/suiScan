@@ -83,7 +83,17 @@ window.WAL3_ADDRESSES = {
      "us team" : "0xc0630bf3ac647069297678e11bf91c11e704aa6ca879c3aff05e9a9bb0055f2f",
     "us team" :  "0xa018752373491460df3fc60db293f08d5263610ad1cf7d3b7fb3666768aafc50",
     "us team" : "0x5dbcbdb7b5427987474eba6a14c7e911fd0215e68ab31f354c6f8f5db5421bf6",
-    "us deployer" : "0x483748113a13e59bd40779f3a14f09d6432c6558416e5379f67231cd26d8a033"
+    "us deployer" : "0x483748113a13e59bd40779f3a14f09d6432c6558416e5379f67231cd26d8a033",
+    'us deployer -1 (1)' : '0x1aa977c2eff844bac976c49d39a09992ef2030549f0b6c611af0f9c5c7390644',
+'us deployer -1 (2)' : '0xd0f37b7fc807f8462940872d7fcba9bf7509fff58a9de3ee5369d0ad646dfd3f',
+'us deployer -1 (3)' : '0x185fe2846c1324f085fe1427e3346bba5cf2e406ee3b0788bdef41ddc5bf9e97',
+'us deployer -1 (4)' : '0x93f7d4faf8ad6d3bb1534b198a8bae7b7cee72d434b0e30ee117f03b4dfe561f',
+'us deployer -1 (5)' : '0xa018752373491460df3fc60db293f08d5263610ad1cf7d3b7fb3666768aafc50',
+'us deployer -1 (6)' : '0xc0630bf3ac647069297678e11bf91c11e704aa6ca879c3aff05e9a9bb0055f2f',
+'us deployer -1 (7)' : '0x6c47f030e97b650eb219ee2a1e72740abc81fb0c259926e5f70009b8e7c28614',
+'us deployer -1 (8)' : '0xa9c7332f231f61f24f7f193662917e5503355409b3c2a12b5a3e4edfb96d36d4',
+'us deployer -1 (9)' : '0x8bd1be626d1f01d6001afdbc562d1b689ec5eeb4840be1c2c5fca12b20d246e4',
+
 };
 
 window.TEST_FROM_GITHUB = 'HELLO_FROM_GITHUB';
