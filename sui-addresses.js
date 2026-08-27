@@ -101,11 +101,22 @@ window.WAL3_ADDRESSES = {
 'gate deposit us depl -2 (2)' : '0x165ca4f75dc5e63000b63208f037f9d2adefa30b137e3ec4c8de54a03c62ebf7',
 'gate deposit us depl -2 (3)' : '0x598a19bd06ee5b6e15fbf49ec39378b63cbe5f85207e3b3212b07d250d324899',
 'gate deposit us depl -2 (4)' : '0x5caca4f9961f2df1d61e3b1d6775c98c2d1b90369e58ddd16ec05b27d1bfd7e8',
-'us depl -2 (4)' : '0xc2ec82f0627977c2e8eb8d1a0294b77df871c1fc5e676580d67c5bfb6cd4696f',
-'us depl -2 (2)' : '0xdfc90668fc687befdca0f934c64074f2d3dd6d740e6e3b6224d7dd7c81bb9845',
-'us depl -2 (3)' : '0x0413fbce763395932f2a26ddf12fbf4a89de6db9a18ce4f689171b3974337b1d',
 'Gate deposit us depl -2 (5)' : '0x972005f602fb254012e168fd1370aa3566fb8ef1b20b162e494657342a0ceb34',
-
+    'us deployer -1 (12)' : '0x1777cc20f53ab6c4e24611dfd3983503cabf2ca9cb6ddde2e4c45041aa8f0a13',
+'us deployer -2 (5)' : '0xe3b9137832ecb3bb1350f9af3196c993782202fb20aca7c77fff0b162cf4b52c',
+'us deployer -2 (6)' : '0xf00c5a3463851cba4017dcc28e75c727843256a1703e3380762cb8be863349e9',
+'gate deposit us deployer -2 (6)' : '0x4e853c3d975a93595df589d75058447865172d836dba66f44add62bbb17dc742',
+'gate deposit us deployer -2 (7)' : '0x6bf450472f07745ffbc9be0b14f530aec59cd9a58d96470214b243531788c0ca',
+'us deployer -2 (7)' : '0x4bdddc90d3e5aa0c949e2e28ed467f75ce096e298ce6062b7e43dbaf9643f746',
+'us deployer -1 (13)' : '0xc2ec82f0627977c2e8eb8d1a0294b77df871c1fc5e676580d67c5bfb6cd4696f',
+'us deployer -2 (8)' : '0xdfc90668fc687befdca0f934c64074f2d3dd6d740e6e3b6224d7dd7c81bb9845',
+'us deployer -2 (9)' : '0x0413fbce763395932f2a26ddf12fbf4a89de6db9a18ce4f689171b3974337b1d',
+'us deployer -2 (10)' : '0xf56f4382220b3eb4a9acfa0aee2db31f5e4381b9bf7af6fe3f63d9a327224954',
+'us deployer -2 (11)' : '0xd103c8fd70c4b0717580d5b2560cc257476c9b2b6859e36268969a18a381ea3f',
+'us deployer -2 (12)' : '0xe6a607f60fc594f14ba800407e9d7530ee781b1d74358699924929dfb38a19d1',
+'us deployer -2 (13)' : '0x38cc4488cd629b4add83014334c3296c8798917443866794d4670b1dc97e8501',
+'us deployer -2 (14)' : '0x84934402ed2148559e7b240d3209d2a1312d0cc4799fc78797f4184c47f329b6',
+'us deployer -2 (15)' : '0x38f3ea5b7af5d380ae4077b317f0f2b26f867ad2662e7ca8336bfc391e0a3054',
 
 };
 
